@@ -5,7 +5,7 @@ class Solution:
         d=x-1
         for i in range(len(nums)-d, len(nums)):
             lists.append(nums[i])
-        for i in range(0 , len(lists)-d):
+        for i in range(0 , len(nums)-d):
             lists.append(list[i])
         l=0
         r=len(nums)-1
