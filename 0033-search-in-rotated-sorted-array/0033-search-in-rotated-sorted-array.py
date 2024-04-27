@@ -16,6 +16,6 @@ class Solution:
                     beg=mid+1
                 else:
                     end=mid-1
-        return -1 if num[end] != target else end
+        return -1
 
                     
