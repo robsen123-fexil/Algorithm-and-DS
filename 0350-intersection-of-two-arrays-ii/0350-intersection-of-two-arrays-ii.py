@@ -4,7 +4,7 @@ class Solution:
         for i in nums1:
             if i in nums2:
                 res.append(i)
-                nums2.remove(i)
+                del nums2[nums2.index(i)]
         return res
 
 
