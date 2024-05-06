@@ -11,3 +11,4 @@ class Solution:
             tot=max(maxmul , minmul)
             total=max(total, tot)
         return total
+        
