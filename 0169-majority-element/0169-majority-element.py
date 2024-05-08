@@ -1,13 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count=0
-        cand=0
+        hashmap={}
         n=len(nums)
-        for num in nums:
-            if count==0:
-                cand=num
-            if num==cand:
-                count+=1
+        a=n//2
+        for i in nums:
+            if i in hashmap:
+                hashmap[i]+=1
             else:
-                count-=1     
-        return cand   
+                hashmap[i]=1
+        for key , value in hashmap.items():
+            if value > a:
+                return key 
+    
