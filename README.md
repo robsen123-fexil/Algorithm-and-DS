@@ -27,6 +27,7 @@
 # Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Prefix Sum
@@ -36,4 +37,5 @@
 # Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
