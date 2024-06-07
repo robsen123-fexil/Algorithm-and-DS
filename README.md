@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0392-is-subsequence) |
+| [1970-sorting-the-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1970-sorting-the-sentence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -44,3 +45,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0050-powx-n) |
+# Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1970-sorting-the-sentence) |
