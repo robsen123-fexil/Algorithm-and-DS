@@ -25,6 +25,7 @@
 # Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0046-permutations) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Math
 |  |
@@ -50,3 +51,7 @@
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1970-sorting-the-sentence) |
+# Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0046-permutations) |
