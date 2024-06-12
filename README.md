@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Math
 |  |
@@ -55,3 +56,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
