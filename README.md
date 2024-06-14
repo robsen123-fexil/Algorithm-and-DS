@@ -10,6 +10,7 @@
 # String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0392-is-subsequence) |
 | [1970-sorting-the-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1970-sorting-the-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -51,6 +52,7 @@
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0242-valid-anagram) |
 | [1970-sorting-the-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1970-sorting-the-sentence) |
 # Backtracking
 |  |
@@ -61,3 +63,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
+# Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0242-valid-anagram) |
