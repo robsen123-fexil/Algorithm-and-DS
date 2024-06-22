@@ -28,11 +28,13 @@
 | ------- |
 | [0046-permutations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -67,3 +69,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0242-valid-anagram) |
+# Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
