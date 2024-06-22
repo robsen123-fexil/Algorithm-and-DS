@@ -30,6 +30,7 @@
 | [0090-subsets-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 # Math
 |  |
 | ------- |
@@ -69,7 +70,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0242-valid-anagram) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 # Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
+# Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
