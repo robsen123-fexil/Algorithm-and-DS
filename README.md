@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
