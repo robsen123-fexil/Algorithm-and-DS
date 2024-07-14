@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0024-swap-nodes-in-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
