@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
@@ -115,6 +116,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
