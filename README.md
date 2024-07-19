@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
