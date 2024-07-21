@@ -124,6 +124,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 ## Memoization
