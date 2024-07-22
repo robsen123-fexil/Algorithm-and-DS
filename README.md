@@ -109,6 +109,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
