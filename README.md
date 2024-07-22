@@ -97,6 +97,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0001-two-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
+| [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -150,6 +153,7 @@
 | [0018-4sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
 |  |
