@@ -114,6 +114,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -150,6 +151,7 @@
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
