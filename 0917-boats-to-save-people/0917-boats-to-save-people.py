@@ -7,12 +7,9 @@ class Solution:
         while l<=r:
             val=people[l]+people[r]
             if val<=limit:
-                res+=1
-                r-=1
                 l+=1
-            else:
-                res+=1
-                r-=1
+            r-=1
+            res+=1
         return res
 
         
