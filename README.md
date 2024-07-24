@@ -92,6 +92,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -117,6 +118,7 @@
 | [0086-partition-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -206,6 +208,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
