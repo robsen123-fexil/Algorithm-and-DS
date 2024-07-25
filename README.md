@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +254,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
