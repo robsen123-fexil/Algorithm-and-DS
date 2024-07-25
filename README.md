@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
@@ -222,4 +223,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
