@@ -163,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 ## Divide and Conquer
 |  |
