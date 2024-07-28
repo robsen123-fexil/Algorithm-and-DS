@@ -96,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -238,6 +239,7 @@
 | [0071-simplify-path](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -272,5 +274,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
