@@ -1,7 +1,7 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         k=0
-        j=0
+        j=len(matrix)-1
         length=len(matrix)
         for i in matrix:
             j=len(i)-1
