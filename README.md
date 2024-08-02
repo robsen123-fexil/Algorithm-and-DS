@@ -90,6 +90,7 @@
 | [0016-3sum-closest](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
@@ -214,6 +215,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
@@ -223,6 +225,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
