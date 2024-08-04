@@ -95,6 +95,7 @@
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
@@ -167,6 +168,7 @@
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
@@ -198,6 +200,7 @@
 | [0018-4sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
@@ -272,6 +275,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -293,6 +297,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 ## Design
 |  |
