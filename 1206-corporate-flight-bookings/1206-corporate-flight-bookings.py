@@ -7,8 +7,7 @@ class Solution:
             if k+1 < len(result):
                 result[k+1]-=l
         sums=0
-        for i , val in enumerate(result):
-            sums+=val
+        for i in range(1 , len(result)):
+            sums+=result[i]
             result[i]=sums
-
-        return result [1:]       
+        return result[1:]
