@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:
         def generatesubarray(arr, start, end):
@@ -11,18 +9,12 @@ class Solution:
                 else:
                     result.append(arr[start:end + 1])
                     return appendallsubarrays(arr, start + 1, end, result)
-            
             result = []
             appendallsubarrays(arr, 0, 0, result)
             return result
-        
-        # Generate all subarrays
         all_subarrays = generatesubarray(arr, 0, 0)
-        
-        # Sum the elements of subarrays with odd lengths
         total_sum = 0
         for subarray in all_subarrays:
             if len(subarray) % 2 != 0:
                 total_sum += sum(subarray)
-        
         return total_sum
