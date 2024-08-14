@@ -127,6 +127,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2358-number-of-ways-to-split-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
@@ -368,6 +369,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2358-number-of-ways-to-split-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2358-number-of-ways-to-split-array) |
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
