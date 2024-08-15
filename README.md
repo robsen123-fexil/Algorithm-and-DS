@@ -96,6 +96,7 @@
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0209-minimum-size-subarray-sum) |
@@ -270,6 +271,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
