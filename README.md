@@ -116,6 +116,7 @@
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0724-find-pivot-index) |
@@ -410,6 +411,7 @@
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
