@@ -166,6 +166,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -217,6 +218,7 @@
 | [0525-contiguous-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
@@ -244,6 +246,7 @@
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -406,6 +409,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
