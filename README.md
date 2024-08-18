@@ -123,6 +123,7 @@
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
@@ -223,6 +224,7 @@
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
+| [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -413,6 +415,7 @@
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
