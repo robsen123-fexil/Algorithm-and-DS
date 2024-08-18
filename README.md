@@ -117,6 +117,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -402,6 +403,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
