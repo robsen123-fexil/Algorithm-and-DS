@@ -251,6 +251,7 @@
 | [0500-keyboard-row](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -294,6 +295,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
@@ -416,6 +418,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
+| [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [0724-find-pivot-index](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
+| [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
