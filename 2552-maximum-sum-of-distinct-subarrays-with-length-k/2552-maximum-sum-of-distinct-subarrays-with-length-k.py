@@ -7,7 +7,6 @@ class Solution:
         maxima=float('-inf')
         if len(cnt)==k:
             maxima=sums
-        
         for i in range(k, len(nums)):
             cnt[nums[l]]-=1
             if cnt[nums[l]]==0:
