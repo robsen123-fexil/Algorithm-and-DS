@@ -10,7 +10,5 @@ class Solution:
                 if cnt[nums[l]]==0:
                     cnt.pop(nums[l])
                 l+=1
-            
-        
             maxima=max(maxima , i-l+1)
         return maxima 
