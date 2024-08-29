@@ -94,6 +94,7 @@
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
