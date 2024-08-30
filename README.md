@@ -190,6 +190,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -331,6 +332,7 @@
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -368,6 +370,7 @@
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
+| [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
