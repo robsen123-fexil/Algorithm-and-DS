@@ -129,6 +129,7 @@
 | [0724-find-pivot-index](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
@@ -191,6 +192,7 @@
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
+| [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -281,6 +283,7 @@
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
