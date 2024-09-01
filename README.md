@@ -135,6 +135,7 @@
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -197,6 +198,7 @@
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
