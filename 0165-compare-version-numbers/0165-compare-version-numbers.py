@@ -1,27 +1,26 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
-        version1=list(version1.split('.'))
-        version2=list((version2.split('.')))
-        print(version1 , version2)
-        
-        
-        for ind , (i , j) in enumerate(zip(version1  , version2)):
+        l=r=0
+        v1=version1.split('.')
+        v2=version2.split('.')
+        print(v1 , v2)
+        while l<len(v1) and r < len(v2):
             
-            if int(i)> int(j):
+            if int(v1[l])> int(v2[r]):
+            
                 return 1
-            elif int(i)<int(j):
-                print("here")
+            elif int(v1[l]) < int(v2[r]):
                 return -1
-            else:
-                continue
-        print(ind)
-        if len(version1)>len(version2):
-            for ind in range(len(version2) , len(version1)):
-                if int(version1[ind])>0:
+            l+=1
+            r+=1
+        if l<(len(v1)):
+            while l<len(v1):
+                if int(v1[l])>0:
                     return 1
-        elif len(version1)<len(version2):
-            for ind in range(len(version1) ,len(version2)):
-                if int(version2[ind])>0:
+                l+=1
+        if r<(len(v2)):
+            while r<len(v2):
+                if int(v2[r])>0:
                     return -1
-       
+                r+=1                    
         return 0
