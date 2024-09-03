@@ -1,18 +1,16 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
+        l=0
+        r=len(skill)-1
         skill.sort()
-        l , r=0 , len(skill)-1
+        res=skill[l]+skill[r]
         result=0
-        target=skill[r]+skill[l]
         while l<r:
-            val=skill[r]+skill[l]
-            if val!=target:
+            if skill[l]+skill[r]==res:
+                result+=(skill[l]*skill[r])
+            else:
                 return -1
-            result+=(skill[l]*skill[r])
-            l+=1
             r-=1
+            l+=1
         return result
 
-
-
-        
