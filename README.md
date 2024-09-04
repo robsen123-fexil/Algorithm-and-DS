@@ -208,6 +208,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -305,6 +306,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
@@ -345,6 +347,7 @@
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
+| [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Binary Search
