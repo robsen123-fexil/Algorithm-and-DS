@@ -153,6 +153,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2102-find-the-middle-index-in-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -212,6 +213,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -310,6 +312,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
