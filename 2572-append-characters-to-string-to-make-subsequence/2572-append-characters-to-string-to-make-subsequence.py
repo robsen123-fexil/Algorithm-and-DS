@@ -1,10 +1,17 @@
 class Solution:
     def appendCharacters(self, s: str, t: str) -> int:
-        i, j=0 , 0 
-        while len(s)>i and len(t)>j:
-            if s[i]==t[j]:
-                i+=1
-                j+=1
+        l=r=cnt=0
+        s=list(s)
+        if t[0] in s:
+
+           s=s[s.index(t[0]):]
+        else:
+            return len(t)
+            
+        while l<len(s) and r<len(t):
+            if s[l]==t[r]:
+                l+=1
             else:
-                i+=1
-        return len(t)-j
+                cnt+=1
+            r+=1
+        return cnt
