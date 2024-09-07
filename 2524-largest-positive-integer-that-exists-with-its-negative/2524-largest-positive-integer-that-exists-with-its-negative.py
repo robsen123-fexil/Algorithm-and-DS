@@ -1,8 +1,15 @@
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
-        maxima=float('-inf')
-        for i in nums:
-            val=i
-            if not i<0 and val*-1 in nums:
-                maxima=max(maxima , i )
-        return maxima if maxima!=float('-inf') else -1
+        r=len(nums)-1
+        nums.sort()
+        l=0
+        while l<=r:
+            if nums[r]>(nums[l]*-1):
+                r-=1
+            elif nums[r]<(nums[l]*-1):
+                l+=1
+            else:
+                return nums[r]
+        return -1
+
+            
