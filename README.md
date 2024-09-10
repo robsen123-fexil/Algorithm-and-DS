@@ -284,6 +284,7 @@
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -332,6 +333,7 @@
 | [0165-compare-version-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0451-sort-characters-by-frequency) |
@@ -518,6 +520,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
