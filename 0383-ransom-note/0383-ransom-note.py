@@ -1,14 +1,10 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        l=r=0
-        ransomNote=sorted(list(ransomNote))
-        magazine=sorted(list(magazine))
-        while l<len(ransomNote) and r<len(magazine):
-            while r<len(magazine) and magazine[r]!=ransomNote[l]:
-                
-                r+=1
-            if r<len(magazine) and magazine[r]==ransomNote[l]:
-                l+=1
-                r+=1
-            
-        return l==len(ransomNote)
+        hsh1=Counter(ransomNote)
+        hsh2=Counter(magazine)
+        for key , value in hsh1.items():
+            if key not in hsh2 or value > hsh2[key]:
+                return False
+        return True
+
+             
