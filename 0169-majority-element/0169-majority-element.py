@@ -1,21 +1,8 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hsh={}
-        nums.sort()
-        val=len(nums)//2
-        count=0
-        for i in nums:
-            if i in hsh:
-                hsh[i]+=1
-            else:
-                hsh[i]=1
-        print(hsh , val)
-        for key  , values in hsh.items():
-            value = hsh.get(key)
-            print(value , key)
-            if value>val:
+        cnt=Counter(nums)
+        half=len(nums)//2
+        cnt=dict(sorted(cnt.items() , key=lambda x:x[1] , reverse=True))
+        for key , value in cnt.items():
+            if value >=half:
                 return key
-
-        
-
-        
