@@ -1,8 +1,9 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        count=Counter(s)
         strs=""
-        ss=dict(sorted(count.items() , key=lambda x:x[1] , reverse=True))
-        for key , value in ss.items():
-            strs+=(key)*value
+        cnt=Counter(s)
+        cnt=dict(sorted(cnt.items() , key=lambda x:x[1] , reverse=True))
+        for key , value in cnt.items():
+            for i in range(value):
+                strs+=key
         return strs
