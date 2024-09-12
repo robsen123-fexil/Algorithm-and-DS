@@ -140,6 +140,7 @@
 | [0978-valid-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -306,6 +307,7 @@
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -538,6 +540,7 @@
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
