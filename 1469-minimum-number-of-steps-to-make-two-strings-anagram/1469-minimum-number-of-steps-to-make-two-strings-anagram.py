@@ -1,13 +1,11 @@
 class Solution:
     def minSteps(self, s: str, t: str) -> int:
-        counts=Counter(s)
-        countt=Counter(t)
+        cnt=Counter(s)
+        cnt2=Counter(t)
         count=0
-        for keys , values in countt.items():
-            val=counts.get(keys)
-            if val==None:
-                val=0
-            if values>val:
-                count+=abs(values-val)
-            
+        for key , value in cnt2.items():
+            val=cnt[key]
+            if value>val:
+                count+=abs(value-val)
         return count
+        
