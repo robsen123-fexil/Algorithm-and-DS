@@ -160,6 +160,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -326,6 +327,7 @@
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -500,6 +502,7 @@
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2556-convert-the-temperature) |
 ## Memoization
@@ -576,6 +579,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Design
