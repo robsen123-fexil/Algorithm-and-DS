@@ -9,9 +9,9 @@ class Solution:
         hsh={}
         for diff in result:
             if diff in hsh:
-                count = (count + hsh[diff]) % MOD
+                count +=hsh[diff]
                 hsh[diff]+=1
             else:
                 hsh[diff]=1 
         
-        return count
+        return count%MOD
