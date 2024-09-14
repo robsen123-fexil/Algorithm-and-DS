@@ -328,6 +328,7 @@
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -378,6 +379,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -580,6 +582,7 @@
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Design
@@ -611,6 +614,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
