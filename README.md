@@ -335,6 +335,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -387,6 +388,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
@@ -591,6 +593,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Design
 |  |
 | ------- |
