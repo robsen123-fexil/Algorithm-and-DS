@@ -177,6 +177,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2358-number-of-ways-to-split-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -343,6 +344,7 @@
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -456,6 +458,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
@@ -608,6 +611,7 @@
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Design
 |  |
 | ------- |
