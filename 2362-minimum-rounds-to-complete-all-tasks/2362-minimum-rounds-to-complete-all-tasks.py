@@ -23,10 +23,7 @@ class Solution:
                     if value%3==0:
                         count+=(value//3)
                     else:
-                        count+=(value//3)+1
-                    
-
-                    
+                        count+=(value//3)+1      
         return count
                         
     
