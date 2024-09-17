@@ -316,6 +316,7 @@
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -381,6 +382,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
@@ -589,6 +591,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
