@@ -182,6 +182,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -354,6 +355,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -632,6 +634,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 ## Design
 |  |
 | ------- |
