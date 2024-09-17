@@ -16,20 +16,9 @@ class Solution:
         counts=[]
         maxima=max(hsh , key=hsh.get)
         vall=hsh[maxima]
-        for val in hsh.values():
-            counts.append(val)
-        cntcount=Counter(counts)
-        
-        resuu=[]
-        if cntcount[vall]==1:
-            return maxima
-        for key , value in hsh.items():
-            if value==vall:
-
-                resuu.append(key)
-        srt=sorted(resuu)
-        print(resuu)
-
-        
-        
+        result=[]
+        for key , val in hsh.items():
+            if vall==val:
+                result.append(key)
+        srt=sorted(result)
         return srt[-1]
