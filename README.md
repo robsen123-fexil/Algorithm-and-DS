@@ -192,6 +192,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -423,6 +424,7 @@
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -644,6 +646,7 @@
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Design
 |  |
 | ------- |
