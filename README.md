@@ -204,6 +204,7 @@
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
+| [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -374,6 +375,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -658,6 +660,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
 ## Design
 |  |
 | ------- |
