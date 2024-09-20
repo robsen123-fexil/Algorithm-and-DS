@@ -202,6 +202,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -372,6 +373,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -469,6 +471,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -654,6 +657,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Design
 |  |
 | ------- |
