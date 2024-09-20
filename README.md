@@ -435,6 +435,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -558,6 +559,7 @@
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2556-convert-the-temperature) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Memoization
 |  |
 | ------- |
@@ -661,6 +663,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Design
 |  |
 | ------- |
