@@ -206,6 +206,7 @@
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
 | [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -379,6 +380,7 @@
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## String
 |  |
 | ------- |
@@ -668,6 +670,7 @@
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Design
 |  |
 | ------- |
