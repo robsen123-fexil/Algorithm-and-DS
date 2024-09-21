@@ -383,6 +383,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -443,6 +444,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -674,6 +676,7 @@
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
 | ------- |
