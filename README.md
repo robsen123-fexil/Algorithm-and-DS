@@ -289,6 +289,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0086-partition-list) |
+| [0147-insertion-sort-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0147-insertion-sort-list) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -458,6 +459,7 @@
 | [0056-merge-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
