@@ -138,6 +138,7 @@
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
@@ -333,6 +334,7 @@
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -710,6 +712,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
@@ -727,6 +730,7 @@
 | [0525-contiguous-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
