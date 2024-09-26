@@ -430,6 +430,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -718,6 +719,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
