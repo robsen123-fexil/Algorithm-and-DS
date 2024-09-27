@@ -180,6 +180,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2378-sender-with-largest-word-count) |
@@ -365,6 +366,7 @@
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -724,6 +726,7 @@
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
