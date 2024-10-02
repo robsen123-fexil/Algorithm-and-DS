@@ -1,10 +1,10 @@
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
-        even=[]
-        odd=[]
+        left=[]
+        right=[]
         for i in nums:
             if i%2==0:
-                even.append(i)
+                left.append(i)
             else:
-                odd.append(i)
-        return even+odd        
+                right.append(i)
+        return left+right
