@@ -1,36 +1,21 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        s2=list(s2)
-
-        res=s2[:len(s1)]
-        if sorted(''.join(res))==sorted(s1):
+        leng=len(s1)
+        s1=sorted(s1)
+        res=list(s2[:leng])
+        if sorted(''.join(res))==s1:
             return True
         l=0
-        for i in range(len(s1) , len(s2)):
-            res.remove(s2[l])
+        for i in range(leng , len(s2)):
             res.append(s2[i])
-            if sorted(''.join(res))==sorted(s1):
-                return True
+            res.remove(s2[l])
             l+=1
-        else:
-            return False
-
-        # perm=list(permutations(s1))
-        # result=[]
-        # for i in perm:
-        #     result.append(''.join(i))
-        # s2=list(s2)
-        # res=s2[:len(s1)]
-        # if ''.join(res) in result:
-        #     return True
-        # l=0
-        
-        # for i in range(len(s1) , len(s2)):
-        #     res.remove(s2[l])
-        #     res.append(s2[i])
+            if sorted(''.join(res))==s1:
+                return True
             
-        #     if ''.join(res)  in result:
-        #         return True
-        #     l+=1
-        # else:
-        #     return False
+        return False
+
+
+
+
+        return 0
