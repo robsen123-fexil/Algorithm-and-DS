@@ -153,6 +153,7 @@
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
+| [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -502,6 +503,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
+| [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
