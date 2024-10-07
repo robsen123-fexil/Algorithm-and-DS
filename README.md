@@ -262,6 +262,7 @@
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
@@ -443,6 +444,7 @@
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
@@ -589,6 +591,7 @@
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
