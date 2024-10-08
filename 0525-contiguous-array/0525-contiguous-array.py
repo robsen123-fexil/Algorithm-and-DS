@@ -1,26 +1,18 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        maxima=float('-inf')
+        hsh={0:-1}
         num=[]
         for i in nums:
             if i==0:
                 num.append(-1)
             else:
                 num.append(1)
+        ans=sums=0
         print(num)
-        hsh={0:-1}
-        sums=0
-        target=0
-        for i , val in enumerate(num):
-            sums+=val
-            diff=sums-target
-            if diff in hsh:
-                res=i-hsh[diff]
-                maxima=max(maxima ,res )
-            if diff not in hsh:
-                hsh[diff]=i
-        return maxima if maxima!=float('-inf') else 0
-
-
-
-
+        for i in range(len(num)):
+            sums+=num[i]
+            if sums in hsh:
+                ans=max(ans , i-hsh[sums])
+            elif sums not in hsh:
+                hsh[sums]=i
+        return ans
