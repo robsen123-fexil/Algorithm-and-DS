@@ -573,6 +573,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0209-minimum-size-subarray-sum) |
@@ -622,6 +623,7 @@
 | [0013-roman-to-integer](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
