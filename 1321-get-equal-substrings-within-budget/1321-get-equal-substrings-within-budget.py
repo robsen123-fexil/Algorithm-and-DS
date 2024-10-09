@@ -1,14 +1,10 @@
 class Solution:
     def equalSubstring(self, s: str, t: str, maxCost: int) -> int:
-        l=0
-        curcost=0
-        maxima=float('-inf')
-        for x , ( i , j)  in enumerate(zip(s , t)):
-            curcost+=abs(ord(j)-ord(i))
-            while curcost>maxCost:
-                curcost-=1
+        sums=l=maxima=0
+        for i in range(len(s)):
+            sums+=abs(ord(s[i])-ord(t[i]))
+            while sums>maxCost:
+                sums-=(abs(ord(s[l])-ord(t[l])))
                 l+=1
-                maxima=max(maxima , x-l+1)
-            maxima=max(maxima ,x-l+1)
+            maxima=max(maxima, i-l+1)
         return maxima
-            
