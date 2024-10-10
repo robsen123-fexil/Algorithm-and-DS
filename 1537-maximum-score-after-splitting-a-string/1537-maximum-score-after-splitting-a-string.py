@@ -1,13 +1,12 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        maxscore=0
+        maxima=0
+        
         for i in range(1 , len(s)):
             left=s[:i]
             right=s[i:]
-            if left and right:
+            lef=Counter(left)
 
-               leftcount=left.count('0')
-               rightcount=right.count('1')
-            sums=leftcount+rightcount
-            maxscore=max(maxscore , sums)
-        return maxscore
+            righ=Counter(right)
+            maxima=max(maxima  , lef['0']+righ['1'])
+        return maxima
