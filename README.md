@@ -160,6 +160,7 @@
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -526,6 +527,7 @@
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1581-the-k-strongest-values-in-an-array) |
