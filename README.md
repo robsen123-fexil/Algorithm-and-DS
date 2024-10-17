@@ -558,6 +558,7 @@
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -638,6 +639,7 @@
 | [0523-continuous-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
