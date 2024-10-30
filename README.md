@@ -152,6 +152,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -282,6 +283,7 @@
 | [0941-sort-array-by-parity](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -544,6 +546,7 @@
 | [0941-sort-array-by-parity](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
