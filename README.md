@@ -275,6 +275,7 @@
 | [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
@@ -373,6 +374,7 @@
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
+| [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -466,6 +468,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
@@ -580,6 +583,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
