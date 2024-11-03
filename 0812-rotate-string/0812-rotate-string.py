@@ -5,5 +5,4 @@ class Solution:
         sh=s+s
         if goal in sh:
             return True
-        else:
-            return False
+        return False
