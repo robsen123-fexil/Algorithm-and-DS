@@ -681,6 +681,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2083-three-divisors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2556-convert-the-temperature) |
@@ -887,6 +888,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
 ## Doubly-Linked List
 |  |
@@ -900,6 +902,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
+| [2083-three-divisors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 ## Queue
 |  |
