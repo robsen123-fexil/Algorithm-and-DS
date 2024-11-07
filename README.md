@@ -626,6 +626,7 @@
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
@@ -924,4 +925,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
