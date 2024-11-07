@@ -625,6 +625,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
@@ -678,6 +679,7 @@
 | [0258-add-digits](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
