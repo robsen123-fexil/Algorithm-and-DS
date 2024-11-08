@@ -148,6 +148,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0940-fruit-into-baskets) |
@@ -634,6 +635,7 @@
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
