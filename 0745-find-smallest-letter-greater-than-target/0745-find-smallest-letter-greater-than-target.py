@@ -1,9 +1,13 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        target_unicode=ord(target)-ord('a')
-        for i in letters:
-            letter_unicode=ord(i)-ord('a')
-            if target_unicode<letter_unicode:
-                return i
+        letters.append(target)
+        letters.sort()
+        
+        sets=sorted(list(set(letters)))
+        ind=sets.index(target)
+        print(sets , ind)
+        if ind+1<len(sets):
+            print("sjs")
+            return sets[ind+1]
         else:
-            return letters[0]
+            return sets[0]
