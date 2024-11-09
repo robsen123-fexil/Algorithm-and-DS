@@ -1,6 +1,9 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        for i , val in enumerate(arr):
-            if val*2 in arr[i+1:] or val*2 in arr[:i]:
-                return True
+        l=0
+        for i in range(len(arr)):
+            for j in range(len(arr)):
+                if i!=j and arr[i]==(2*arr[j]):
+                    return True
+            
         return False
