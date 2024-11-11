@@ -195,6 +195,7 @@
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -305,6 +306,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1894-merge-strings-alternately) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
@@ -652,6 +654,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
