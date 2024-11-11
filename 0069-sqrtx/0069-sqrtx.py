@@ -1,9 +1,8 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         l=0
-        r=x//2
-        if x==1:
-            return 1
+        r=x
+        
         while l<=r:
             mid=(l+r)//2
             if mid**2==x:
