@@ -1,16 +1,16 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        strs=list(haystack)
-        first=strs[:len(needle)]
-        if ''.join(first)==needle:
+
+        leng=len(needle)
+        haystack=list(haystack)
+        res=haystack[:leng]
+        if ''.join(res)==needle:
             return 0
         l=0
-        for i in range(len(needle) , len(strs)):
-            first.remove(strs[l])
-            first.append(strs[i])
+        for i in range(leng , len(haystack)):
+            res.append(haystack[i])
+            res.remove(haystack[l])
             l+=1
-            res=''.join(first)
-            if res==needle:
-                return l
-        else:
-            return -1
+            if ''.join(res)==needle:
+                return abs(leng-i)+1
+        return -1
