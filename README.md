@@ -336,6 +336,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
@@ -349,6 +350,7 @@
 | [0086-partition-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0147-insertion-sort-list) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
