@@ -520,6 +520,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2378-sender-with-largest-word-count) |
@@ -617,6 +618,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -939,6 +941,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [2083-three-divisors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2083-three-divisors) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 ## Queue
 |  |
