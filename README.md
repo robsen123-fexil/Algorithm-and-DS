@@ -250,6 +250,7 @@
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -887,6 +888,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
