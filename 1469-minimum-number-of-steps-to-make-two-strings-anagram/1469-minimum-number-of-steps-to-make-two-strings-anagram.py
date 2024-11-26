@@ -3,9 +3,11 @@ class Solution:
         cnt=Counter(s)
         cnt2=Counter(t)
         count=0
-        for key , value in cnt2.items():
-            val=cnt[key]
-            if value>val:
-                count+=abs(value-val)
+        for key , val in cnt2.items():
+            if key in cnt:
+                if cnt[key]<val:
+
+                    count+=abs(val-cnt[key])
+            else:
+                count+=val
         return count
-        
