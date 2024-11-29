@@ -236,6 +236,7 @@
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
+| [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -450,6 +451,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
+| [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -888,6 +890,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
