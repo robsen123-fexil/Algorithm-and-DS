@@ -2,9 +2,9 @@ class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         arr.sort()
         for i in range(len(arr)):
-            for j in range(len(arr)):
-
-                if i!=j and arr[i]==arr[j]*2:
+            l=0
+            while l<len(arr):
+                if l!=i and arr[i]==arr[l]*2:
                     return True
+                l+=1
         return False
-                    
