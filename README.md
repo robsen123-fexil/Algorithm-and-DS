@@ -127,6 +127,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
