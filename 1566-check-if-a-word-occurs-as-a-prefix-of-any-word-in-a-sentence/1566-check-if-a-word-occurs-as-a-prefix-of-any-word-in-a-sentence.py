@@ -1,19 +1,22 @@
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
-        strs=sentence.split()
-        for i in range(len(strs)):
-            l=0
-            r=0
-            while l<len(strs[i]) and r<len(searchWord):
-                if strs[i][l]==searchWord[r]:
-                    r+=1
-                l+=1
-                if l!=r:
-                    break
-            if len(searchWord)==r:
+        def checker(leng , word , searchword):
+            res=list(word[:leng])
+            
+            if ''.join(res)==searchword:
+                return True
+            # l=0
+            # for i in range(leng , len(word)):
+            #     res.append(word[i])
+            #     res.remove(word[l])
+            #     if ''.join(res)==searchword:
+            #         return True
+            #     l+=1
+            return False
+        sent=sentence.split()
+        for i in range(len(sent)):
+            if checker(len(searchWord) ,sent[i] ,searchWord):
                 return i+1
         return -1
-        
 
         
-            
