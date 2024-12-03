@@ -105,6 +105,7 @@
 | [0075-sort-colors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0164-maximum-gap) |
@@ -708,6 +709,7 @@
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
@@ -754,6 +756,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
