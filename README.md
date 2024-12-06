@@ -237,6 +237,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
@@ -460,6 +461,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -606,6 +608,7 @@
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -639,6 +642,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
@@ -678,6 +682,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
